@@ -1,4 +1,5 @@
-Name is: Shiwang
-Roll is: 10
-Name is: Shiwang
-Roll is: 10
+Name is: cd "/Users/shiwang_1/Desktop/java coding/oops_java/input_java/" && javac question.java && java question
+Name is: shiwang
+Name is: shiwang
+Name is: shiwang
+Name is: shiwang
